@@ -1,7 +1,7 @@
 # Classificador de Nível de Herói
 
 ## 🏆 Descrição
-O **Classificador de Nível de Herói** é um programa simples desenvolvido em Node.js que determina o rank de um herói com base em sua experiência. O usuário informa o nome do herói e sua pontuação de experiência, e o sistema retorna o nível correspondente.
+O **Classificador de Nível de Herói** é um programa simples desenvolvido em **JavaScript** que determina o rank de um herói com base em sua experiência. O usuário informa o nome do herói e sua pontuação de experiência, e o sistema retorna o nível correspondente.
 
 ## 🚀 Funcionalidades
 - Entrada de nome do herói e pontos de experiência;
