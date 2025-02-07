@@ -1,18 +1,17 @@
 # Classificador de Nível de Herói
 
-## 🏆 Descrição
-O **Classificador de Nível de Herói** é um programa simples desenvolvido em **JavaScript** que determina o rank de um herói com base em sua experiência. O usuário informa o nome do herói e sua pontuação de experiência, e o sistema retorna o nível correspondente.
+Este é um programa simples desenvolvido em **Node.js** que determina o rank de um herói com base em sua experiência. O usuário informa o nome do herói e sua pontuação de experiência, e o sistema retorna o nível correspondente.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Entrada de nome do herói e pontos de experiência;
 - Classificação automática do herói em diferentes ranks;
 - Execução direta pelo terminal.
 
-## ⚙️ Requisitos
+## Requisitos
 - **Node.js** instalado na máquina;
-- Módulo nativo `readline` do Node.js (já incluso por padrão).
+- Módulo nativo `readline` do Node.js.
 
-## 📥 Instalação
+## Instalação
 1. Clone o repositório:
    ```bash
    git clone https://github.com/rafaelftr/dio-proglog-desafio1.git
@@ -29,7 +28,7 @@ O **Classificador de Nível de Herói** é um programa simples desenvolvido em *
    node classificadorDeNivel.js
    ```
 
-## 💡 Exemplo de Uso
+## Exemplo de Uso
 ```bash
 Digite o nome do herói: Thor
 Digite a experiência do herói: 7500
@@ -37,12 +36,12 @@ Digite a experiência do herói: 7500
 O herói Thor está no nível: Platina
 ```
 
-## 🤝 Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se livre para abrir issues, propor melhorias ou enviar pull requests.
 
-## 📜 Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
-## 👤 Autor
+## Autor
 Desenvolvido por **Rafael Fontoura** durante a Formação de Lógica em Programação na plataforma DIO.me.
 
